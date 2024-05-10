@@ -1,0 +1,1 @@
+$\sum_{k=1}^n \frac{2^{2k-1}}{k}\binom{2n-2k}{n-k}\cdot \frac{1}{\binom{2n}{n}}$
